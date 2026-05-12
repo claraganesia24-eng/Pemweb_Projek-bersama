@@ -1,0 +1,38 @@
+body {
+    background: #ffe4e6;
+    font-family: Poppins;
+}
+
+.box {
+    width: 400px;
+    background: white;
+    margin: 50px auto;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+h2 {
+    color: #e11d48;
+    text-align: center;
+}
+
+input,
+select,
+button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    background: #fb7185;
+    color: white;
+    border: none;
+}
+
+.hasil {
+    margin-top: 20px;
+    background: #fff1f2;
+    padding: 15px;
+}
